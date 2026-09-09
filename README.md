@@ -1,2 +1,1 @@
-# brk-carretinhas
-Gestão do projeto BRK Carretinhas — Issues, PRs e padrões de segurança/UX
+"# BRK Carretinhas\n\nReposit\u00f3rio de gest\u00e3o do projeto da loja BRK Carretinhas (carretinhas de carga 0km e usadas).\n\n- Site: https://brk-haul-pro.base44.app\n- Plataforma: Base44 (app 6a9dac16099b527d708bddfd)\n- Processo: ver AGENTS.md \u2014 toda tarefa vira Issue, todo deploy via PR.\n"
